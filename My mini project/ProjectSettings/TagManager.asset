@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Gems
+  - Enemy
+  - bullet
+  - key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Princess
+  - Prince
+  - Dino
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3662694789
+    locked: 0
+  - name: Princess
+    uniqueID: 959240665
+    locked: 0
+  - name: Dino
+    uniqueID: 86168989
+    locked: 0
+  - name: Prince
+    uniqueID: 3932928817
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
